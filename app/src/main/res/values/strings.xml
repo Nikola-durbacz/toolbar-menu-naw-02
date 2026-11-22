@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">toolbar-menu-naw-02</string>
+    <string name="app_name">Zamówienie pizzy</string>
+
+    <string-array name="pizzas">
+        <item>Margherita</item>
+        <item>Capricciosa</item>
+        <item>Pepperoni</item>
+        <item>Hawajska</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>Mała - 25 zł</item>
+        <item>Średnia - 32 zł</item>
+        <item>Duża - 40 zł</item>
+    </string-array>
 </resources>
